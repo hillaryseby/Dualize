@@ -1,0 +1,7044 @@
+fileFormatVersion: 2
+guid: 2f5578e12e77c8e4688c963de6419e99
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 423177861588455957
+    second: BG_desert_night_1024_0
+  - first:
+      213: -7310042411994456657
+    second: BG_desert_night_1024_1
+  - first:
+      213: 4739329513562792000
+    second: BG_desert_night_1024_2
+  - first:
+      213: 5244858860053573941
+    second: BG_desert_night_1024_3
+  - first:
+      213: -8186274710163558093
+    second: BG_desert_night_1024_4
+  - first:
+      213: 4880448056077436713
+    second: BG_desert_night_1024_5
+  - first:
+      213: 5227175416131950763
+    second: BG_desert_night_1024_6
+  - first:
+      213: 2561189170159468019
+    second: BG_desert_night_1024_7
+  - first:
+      213: 4688723560341732629
+    second: BG_desert_night_1024_8
+  - first:
+      213: 2718956326135436046
+    second: BG_desert_night_1024_9
+  - first:
+      213: 1930498896636568303
+    second: BG_desert_night_1024_10
+  - first:
+      213: -3769555829645624866
+    second: BG_desert_night_1024_11
+  - first:
+      213: 237240670984433893
+    second: BG_desert_night_1024_12
+  - first:
+      213: -1874638865623823838
+    second: BG_desert_night_1024_13
+  - first:
+      213: -6905213081042942284
+    second: BG_desert_night_1024_14
+  - first:
+      213: -3229971077197970605
+    second: BG_desert_night_1024_15
+  - first:
+      213: -2037847818825519108
+    second: BG_desert_night_1024_16
+  - first:
+      213: 4009605714314657411
+    second: BG_desert_night_1024_17
+  - first:
+      213: -6936100244732172752
+    second: BG_desert_night_1024_18
+  - first:
+      213: -1031733831252282070
+    second: BG_desert_night_1024_19
+  - first:
+      213: -9130034399527407089
+    second: BG_desert_night_1024_20
+  - first:
+      213: 5131969051868038001
+    second: BG_desert_night_1024_21
+  - first:
+      213: -4948051472265580769
+    second: BG_desert_night_1024_22
+  - first:
+      213: -4449132096544996500
+    second: BG_desert_night_1024_23
+  - first:
+      213: -1252321124820204483
+    second: BG_desert_night_1024_24
+  - first:
+      213: -8735883409651806092
+    second: BG_desert_night_1024_25
+  - first:
+      213: 7806052564332454494
+    second: BG_desert_night_1024_26
+  - first:
+      213: -7887723105021538544
+    second: BG_desert_night_1024_27
+  - first:
+      213: -3844665098802691376
+    second: BG_desert_night_1024_28
+  - first:
+      213: 4791254766735767993
+    second: BG_desert_night_1024_29
+  - first:
+      213: 1754129657761727504
+    second: BG_desert_night_1024_30
+  - first:
+      213: 5310466069296285311
+    second: BG_desert_night_1024_31
+  - first:
+      213: -2076416662445933799
+    second: BG_desert_night_1024_32
+  - first:
+      213: 9092894115033894247
+    second: BG_desert_night_1024_33
+  - first:
+      213: -7692591873506442643
+    second: BG_desert_night_1024_34
+  - first:
+      213: -2773434313238010407
+    second: BG_desert_night_1024_35
+  - first:
+      213: -2827760934108041041
+    second: BG_desert_night_1024_36
+  - first:
+      213: 593977671824672740
+    second: BG_desert_night_1024_37
+  - first:
+      213: 5850111240393018635
+    second: BG_desert_night_1024_38
+  - first:
+      213: 3880743038107544047
+    second: BG_desert_night_1024_39
+  - first:
+      213: -7034897413939392903
+    second: BG_desert_night_1024_40
+  - first:
+      213: -8642199783274760327
+    second: BG_desert_night_1024_41
+  - first:
+      213: 1607724517015602341
+    second: BG_desert_night_1024_42
+  - first:
+      213: 3816933784184626521
+    second: BG_desert_night_1024_43
+  - first:
+      213: -9013292812744682263
+    second: BG_desert_night_1024_44
+  - first:
+      213: 4704203773512621480
+    second: BG_desert_night_1024_45
+  - first:
+      213: -1959205119057696855
+    second: BG_desert_night_1024_46
+  - first:
+      213: -2376135823167874101
+    second: BG_desert_night_1024_47
+  - first:
+      213: -7946998763115622556
+    second: BG_desert_night_1024_48
+  - first:
+      213: -5156306587046800148
+    second: BG_desert_night_1024_49
+  - first:
+      213: 5121441339525983177
+    second: BG_desert_night_1024_50
+  - first:
+      213: -8269418831186037481
+    second: BG_desert_night_1024_51
+  - first:
+      213: -6634978640482875059
+    second: BG_desert_night_1024_52
+  - first:
+      213: 6517967339480273911
+    second: BG_desert_night_1024_53
+  - first:
+      213: -3349566280600979192
+    second: BG_desert_night_1024_54
+  - first:
+      213: 988840545279880940
+    second: BG_desert_night_1024_55
+  - first:
+      213: -1915471553692325085
+    second: BG_desert_night_1024_56
+  - first:
+      213: 526270693324253759
+    second: BG_desert_night_1024_57
+  - first:
+      213: 1129982042099336815
+    second: BG_desert_night_1024_58
+  - first:
+      213: 4606552707514619705
+    second: BG_desert_night_1024_59
+  - first:
+      213: -5201447827982304259
+    second: BG_desert_night_1024_60
+  - first:
+      213: -8196893606305570458
+    second: BG_desert_night_1024_61
+  - first:
+      213: 7158724260640191369
+    second: BG_desert_night_1024_62
+  - first:
+      213: 6473996330702661476
+    second: BG_desert_night_1024_63
+  - first:
+      213: 7213792705504620047
+    second: BG_desert_night_1024_64
+  - first:
+      213: 659270948685678421
+    second: BG_desert_night_1024_65
+  - first:
+      213: 7031482220933389912
+    second: BG_desert_night_1024_66
+  - first:
+      213: 3067232876463710110
+    second: BG_desert_night_1024_67
+  - first:
+      213: -8004359863914175629
+    second: BG_desert_night_1024_68
+  - first:
+      213: -7427740139319749077
+    second: BG_desert_night_1024_69
+  - first:
+      213: 824100492167756961
+    second: BG_desert_night_1024_70
+  - first:
+      213: -5221252809328447384
+    second: BG_desert_night_1024_71
+  - first:
+      213: -2440233989163786697
+    second: BG_desert_night_1024_72
+  - first:
+      213: 4026885550580904942
+    second: BG_desert_night_1024_73
+  - first:
+      213: -4912712246321691964
+    second: BG_desert_night_1024_74
+  - first:
+      213: -1332728191910682826
+    second: BG_desert_night_1024_75
+  - first:
+      213: 2914307824955963201
+    second: BG_desert_night_1024_76
+  - first:
+      213: 380020359291167402
+    second: BG_desert_night_1024_77
+  - first:
+      213: 3711259165443220294
+    second: BG_desert_night_1024_78
+  - first:
+      213: -4871982094684532911
+    second: BG_desert_night_1024_79
+  - first:
+      213: -6018998227432739453
+    second: BG_desert_night_1024_80
+  - first:
+      213: -3257459609631339296
+    second: BG_desert_night_1024_81
+  - first:
+      213: -5637972007308834984
+    second: BG_desert_night_1024_82
+  - first:
+      213: 4669761933774310587
+    second: BG_desert_night_1024_83
+  - first:
+      213: 809873367305550310
+    second: BG_desert_night_1024_84
+  - first:
+      213: 3483250508232662602
+    second: BG_desert_night_1024_85
+  - first:
+      213: 1901997052281533809
+    second: BG_desert_night_1024_86
+  - first:
+      213: -8496451394777347790
+    second: BG_desert_night_1024_87
+  - first:
+      213: -4382858254869907131
+    second: BG_desert_night_1024_88
+  - first:
+      213: -2466460751456401732
+    second: BG_desert_night_1024_89
+  - first:
+      213: -900334359451137473
+    second: BG_desert_night_1024_90
+  - first:
+      213: 4050236902274028819
+    second: BG_desert_night_1024_91
+  - first:
+      213: -7627681960956601132
+    second: BG_desert_night_1024_92
+  - first:
+      213: -856950742359558494
+    second: BG_desert_night_1024_93
+  - first:
+      213: 5062904649492368042
+    second: BG_desert_night_1024_94
+  - first:
+      213: -6238566855848860273
+    second: BG_desert_night_1024_95
+  - first:
+      213: -4954968565949352230
+    second: BG_desert_night_1024_96
+  - first:
+      213: -4783199969471075708
+    second: BG_desert_night_1024_97
+  - first:
+      213: 336434319670186436
+    second: BG_desert_night_1024_98
+  - first:
+      213: 2582448217396321204
+    second: BG_desert_night_1024_99
+  - first:
+      213: -4577415502564834160
+    second: BG_desert_night_1024_100
+  - first:
+      213: -7363524832873309189
+    second: BG_desert_night_1024_101
+  - first:
+      213: 7033608442137070323
+    second: BG_desert_night_1024_102
+  - first:
+      213: -7212863095043912541
+    second: BG_desert_night_1024_103
+  - first:
+      213: -5197977602779883736
+    second: BG_desert_night_1024_104
+  - first:
+      213: -8767221211720393845
+    second: BG_desert_night_1024_105
+  - first:
+      213: 5307321545859880124
+    second: BG_desert_night_1024_106
+  - first:
+      213: -6726692292190221459
+    second: BG_desert_night_1024_107
+  - first:
+      213: 3974833823865754964
+    second: BG_desert_night_1024_108
+  - first:
+      213: 8953544018718893250
+    second: BG_desert_night_1024_109
+  - first:
+      213: 8982778609856742395
+    second: BG_desert_night_1024_110
+  - first:
+      213: -8708555819631159093
+    second: BG_desert_night_1024_111
+  - first:
+      213: 6349322396403783960
+    second: BG_desert_night_1024_112
+  - first:
+      213: 455317308530729690
+    second: BG_desert_night_1024_113
+  - first:
+      213: -408877040700347583
+    second: BG_desert_night_1024_114
+  - first:
+      213: -4579850229555033689
+    second: BG_desert_night_1024_115
+  - first:
+      213: 2311715862404495752
+    second: BG_desert_night_1024_116
+  - first:
+      213: 3113202355066857979
+    second: BG_desert_night_1024_117
+  - first:
+      213: 650338653125567084
+    second: BG_desert_night_1024_118
+  - first:
+      213: -6297074960056078177
+    second: BG_desert_night_1024_119
+  - first:
+      213: -7607468409972033422
+    second: BG_desert_night_1024_120
+  - first:
+      213: 1266691898096906550
+    second: BG_desert_night_1024_121
+  - first:
+      213: -8455049140811288085
+    second: BG_desert_night_1024_122
+  - first:
+      213: 1571217109354472681
+    second: BG_desert_night_1024_123
+  - first:
+      213: 3855113016972056733
+    second: BG_desert_night_1024_124
+  - first:
+      213: -3548252710240607483
+    second: BG_desert_night_1024_125
+  - first:
+      213: 2577596617272797622
+    second: BG_desert_night_1024_126
+  - first:
+      213: -8480039025941834026
+    second: BG_desert_night_1024_127
+  - first:
+      213: 4071971120644239437
+    second: BG_desert_night_1024_128
+  - first:
+      213: -8963929678555814950
+    second: BG_desert_night_1024_129
+  - first:
+      213: 7345375922418732817
+    second: BG_desert_night_1024_130
+  - first:
+      213: 4609539379701256240
+    second: BG_desert_night_1024_131
+  - first:
+      213: 6028855735029495824
+    second: BG_desert_night_1024_132
+  - first:
+      213: -8194548884031461282
+    second: BG_desert_night_1024_133
+  - first:
+      213: -1155456588804800634
+    second: BG_desert_night_1024_134
+  - first:
+      213: 8983881883474873658
+    second: BG_desert_night_1024_135
+  - first:
+      213: -501751679721372557
+    second: BG_desert_night_1024_136
+  - first:
+      213: -1417070572991882646
+    second: BG_desert_night_1024_137
+  - first:
+      213: 269621659360346362
+    second: BG_desert_night_1024_138
+  - first:
+      213: -8673300279734398886
+    second: BG_desert_night_1024_139
+  - first:
+      213: -7967266930839066683
+    second: BG_desert_night_1024_140
+  - first:
+      213: 4994019354161299115
+    second: BG_desert_night_1024_141
+  - first:
+      213: -8498801866232306212
+    second: BG_desert_night_1024_142
+  - first:
+      213: 1462467632214066908
+    second: BG_desert_night_1024_143
+  - first:
+      213: -767192350959133531
+    second: BG_desert_night_1024_144
+  - first:
+      213: 3042325945862700560
+    second: BG_desert_night_1024_145
+  - first:
+      213: -8179445567786432638
+    second: BG_desert_night_1024_146
+  - first:
+      213: 5961878538326354394
+    second: BG_desert_night_1024_147
+  - first:
+      213: -7398813287320781240
+    second: BG_desert_night_1024_148
+  - first:
+      213: 8784498981134859995
+    second: BG_desert_night_1024_149
+  - first:
+      213: 9089516174487565999
+    second: BG_desert_night_1024_150
+  - first:
+      213: 8399877239148922804
+    second: BG_desert_night_1024_151
+  - first:
+      213: -2450707216670661249
+    second: BG_desert_night_1024_152
+  - first:
+      213: -7261407335472646220
+    second: BG_desert_night_1024_153
+  - first:
+      213: -8466977572611798576
+    second: BG_desert_night_1024_154
+  - first:
+      213: 6009056749894276621
+    second: BG_desert_night_1024_155
+  - first:
+      213: 6272184251355913653
+    second: BG_desert_night_1024_156
+  - first:
+      213: -2964986482750444857
+    second: BG_desert_night_1024_157
+  - first:
+      213: 6982843141850402998
+    second: BG_desert_night_1024_158
+  - first:
+      213: 3749473310120861807
+    second: BG_desert_night_1024_159
+  - first:
+      213: 5111763390265912107
+    second: BG_desert_night_1024_160
+  - first:
+      213: -7783936151940575295
+    second: BG_desert_night_1024_161
+  - first:
+      213: 5617175351767026166
+    second: BG_desert_night_1024_162
+  - first:
+      213: 3482091106545697853
+    second: BG_desert_night_1024_163
+  - first:
+      213: -5354007122505100747
+    second: BG_desert_night_1024_164
+  - first:
+      213: 8283815231709479707
+    second: BG_desert_night_1024_165
+  - first:
+      213: 724034940539773991
+    second: BG_desert_night_1024_166
+  - first:
+      213: -8367998573760349644
+    second: BG_desert_night_1024_167
+  - first:
+      213: 2739764552540839633
+    second: BG_desert_night_1024_168
+  - first:
+      213: -3447521659346736229
+    second: BG_desert_night_1024_169
+  - first:
+      213: -4599191451007986222
+    second: BG_desert_night_1024_170
+  - first:
+      213: -7872791004126549692
+    second: BG_desert_night_1024_171
+  - first:
+      213: -2764290150416254452
+    second: BG_desert_night_1024_172
+  - first:
+      213: -2389410826176776983
+    second: BG_desert_night_1024_173
+  - first:
+      213: 6028590051286269370
+    second: BG_desert_night_1024_174
+  - first:
+      213: 2036708917604144924
+    second: BG_desert_night_1024_175
+  - first:
+      213: 391647011891418552
+    second: BG_desert_night_1024_176
+  - first:
+      213: -5771849527695547979
+    second: BG_desert_night_1024_177
+  - first:
+      213: 2382848348898491482
+    second: BG_desert_night_1024_178
+  - first:
+      213: 4911282228427473055
+    second: BG_desert_night_1024_179
+  - first:
+      213: -2278837741449138346
+    second: BG_desert_night_1024_180
+  - first:
+      213: -3502783859032622052
+    second: BG_desert_night_1024_181
+  - first:
+      213: 1089219340557374632
+    second: BG_desert_night_1024_182
+  - first:
+      213: 7571055716632010269
+    second: BG_desert_night_1024_183
+  - first:
+      213: 3122937795472944208
+    second: BG_desert_night_1024_184
+  - first:
+      213: 4742663447616960116
+    second: BG_desert_night_1024_185
+  - first:
+      213: 5935958324599746454
+    second: BG_desert_night_1024_186
+  - first:
+      213: -3423212329995287727
+    second: BG_desert_night_1024_187
+  - first:
+      213: 8257542863505990550
+    second: BG_desert_night_1024_188
+  - first:
+      213: 7423453454609755096
+    second: BG_desert_night_1024_189
+  - first:
+      213: -3608288867247142185
+    second: BG_desert_night_1024_190
+  - first:
+      213: 8559728022036916389
+    second: BG_desert_night_1024_191
+  - first:
+      213: 7210737922475488981
+    second: BG_desert_night_1024_192
+  - first:
+      213: 9209127478533946909
+    second: BG_desert_night_1024_193
+  - first:
+      213: 8165289375445020805
+    second: BG_desert_night_1024_194
+  - first:
+      213: 3578379907650929565
+    second: BG_desert_night_1024_195
+  - first:
+      213: 1513314820729344644
+    second: BG_desert_night_1024_196
+  - first:
+      213: 2483086975124624351
+    second: BG_desert_night_1024_197
+  - first:
+      213: -1794586759115051460
+    second: BG_desert_night_1024_198
+  - first:
+      213: 3287779352278882622
+    second: BG_desert_night_1024_199
+  - first:
+      213: 1070589313645385709
+    second: BG_desert_night_1024_200
+  - first:
+      213: 826404245078713664
+    second: BG_desert_night_1024_201
+  - first:
+      213: 4970933010902030406
+    second: BG_desert_night_1024_202
+  - first:
+      213: -2740955441037726824
+    second: BG_desert_night_1024_203
+  - first:
+      213: 3600100341262120065
+    second: BG_desert_night_1024_204
+  - first:
+      213: -2251998510575305174
+    second: BG_desert_night_1024_205
+  - first:
+      213: -147153706013417328
+    second: BG_desert_night_1024_206
+  - first:
+      213: -3946739245938271742
+    second: BG_desert_night_1024_207
+  - first:
+      213: 3464057662505805911
+    second: BG_desert_night_1024_208
+  - first:
+      213: 2998691039217032356
+    second: BG_desert_night_1024_209
+  - first:
+      213: -6722585566988659493
+    second: BG_desert_night_1024_210
+  - first:
+      213: 3332230949691377137
+    second: BG_desert_night_1024_211
+  - first:
+      213: -3791441427529032451
+    second: BG_desert_night_1024_212
+  - first:
+      213: 7545661388691938152
+    second: BG_desert_night_1024_213
+  - first:
+      213: 989820198272030356
+    second: BG_desert_night_1024_214
+  - first:
+      213: -6120221318752015844
+    second: BG_desert_night_1024_215
+  - first:
+      213: -6912041568196016696
+    second: BG_desert_night_1024_216
+  - first:
+      213: 5399986043827553098
+    second: BG_desert_night_1024_217
+  - first:
+      213: -579722018706727391
+    second: BG_desert_night_1024_218
+  - first:
+      213: -6737053887665331997
+    second: BG_desert_night_1024_219
+  - first:
+      213: -7239553805321937986
+    second: BG_desert_night_1024_220
+  - first:
+      213: 2325596594921137363
+    second: BG_desert_night_1024_221
+  - first:
+      213: 8550425115122993404
+    second: BG_desert_night_1024_222
+  - first:
+      213: 1956299973035678524
+    second: BG_desert_night_1024_223
+  - first:
+      213: 3619863298241611083
+    second: BG_desert_night_1024_224
+  - first:
+      213: 3743967938217266295
+    second: BG_desert_night_1024_225
+  - first:
+      213: -6502448006986446850
+    second: BG_desert_night_1024_226
+  - first:
+      213: 745350942767805559
+    second: BG_desert_night_1024_227
+  - first:
+      213: 4919694451161995017
+    second: BG_desert_night_1024_228
+  - first:
+      213: 2958074447827975238
+    second: BG_desert_night_1024_229
+  - first:
+      213: 4488801849072762860
+    second: BG_desert_night_1024_230
+  - first:
+      213: -326596850031890262
+    second: BG_desert_night_1024_231
+  - first:
+      213: -4787110852432226557
+    second: BG_desert_night_1024_232
+  - first:
+      213: 5746356683758872132
+    second: BG_desert_night_1024_233
+  - first:
+      213: -8482905934112349778
+    second: BG_desert_night_1024_234
+  - first:
+      213: 4404952689926756173
+    second: BG_desert_night_1024_235
+  - first:
+      213: -2208242318348519923
+    second: BG_desert_night_1024_236
+  - first:
+      213: -8844911388224480116
+    second: BG_desert_night_1024_237
+  - first:
+      213: -2873406029554704538
+    second: BG_desert_night_1024_238
+  - first:
+      213: 5391691702062334099
+    second: BG_desert_night_1024_239
+  - first:
+      213: 4148428863128207262
+    second: BG_desert_night_1024_240
+  - first:
+      213: 7527874812161869753
+    second: BG_desert_night_1024_241
+  - first:
+      213: -5796597762469123574
+    second: BG_desert_night_1024_242
+  - first:
+      213: 4473059448108072630
+    second: BG_desert_night_1024_243
+  - first:
+      213: -537886297580202625
+    second: BG_desert_night_1024_244
+  - first:
+      213: 1774429409944920443
+    second: BG_desert_night_1024_245
+  - first:
+      213: -4825796224418590780
+    second: BG_desert_night_1024_246
+  - first:
+      213: -7737677273907077370
+    second: BG_desert_night_1024_247
+  - first:
+      213: 2452783631199277997
+    second: BG_desert_night_1024_248
+  - first:
+      213: -6895588692906629052
+    second: BG_desert_night_1024_249
+  - first:
+      213: -1595728122285217703
+    second: BG_desert_night_1024_250
+  - first:
+      213: -6898853253820153540
+    second: BG_desert_night_1024_251
+  - first:
+      213: -6249300051463408627
+    second: BG_desert_night_1024_252
+  - first:
+      213: -911487064106058579
+    second: BG_desert_night_1024_253
+  - first:
+      213: 1691480560916910075
+    second: BG_desert_night_1024_254
+  - first:
+      213: 8323104139127785323
+    second: BG_desert_night_1024_255
+  - first:
+      213: 6684783259875089911
+    second: BG_desert_night_1024_256
+  - first:
+      213: 4894145431062948483
+    second: BG_desert_night_1024_257
+  - first:
+      213: -1138309360555870640
+    second: BG_desert_night_1024_258
+  - first:
+      213: -7184367991658039061
+    second: BG_desert_night_1024_259
+  - first:
+      213: 6591500338891056444
+    second: BG_desert_night_1024_260
+  - first:
+      213: -5054644717971716471
+    second: BG_desert_night_1024_261
+  - first:
+      213: -8655077872672756723
+    second: BG_desert_night_1024_262
+  - first:
+      213: 4006919815664620279
+    second: BG_desert_night_1024_263
+  - first:
+      213: -6644889893465733861
+    second: BG_desert_night_1024_264
+  - first:
+      213: 6924422334822832800
+    second: BG_desert_night_1024_265
+  - first:
+      213: -2713143581832019938
+    second: BG_desert_night_1024_266
+  - first:
+      213: -6180767599076582067
+    second: BG_desert_night_1024_267
+  - first:
+      213: 4970946111491238530
+    second: BG_desert_night_1024_268
+  - first:
+      213: -806911828758333993
+    second: BG_desert_night_1024_269
+  - first:
+      213: -6437035311107911754
+    second: BG_desert_night_1024_270
+  - first:
+      213: 1937651714659605822
+    second: BG_desert_night_1024_271
+  - first:
+      213: 2791193143128239068
+    second: BG_desert_night_1024_272
+  - first:
+      213: -9076461156296180508
+    second: BG_desert_night_1024_273
+  - first:
+      213: -7487804875754295309
+    second: BG_desert_night_1024_274
+  - first:
+      213: -1354461422151629909
+    second: BG_desert_night_1024_275
+  - first:
+      213: -3046020059159534743
+    second: BG_desert_night_1024_276
+  - first:
+      213: -394552748111007187
+    second: BG_desert_night_1024_277
+  - first:
+      213: -8336407203970983402
+    second: BG_desert_night_1024_278
+  - first:
+      213: -4768667870891571711
+    second: BG_desert_night_1024_279
+  - first:
+      213: -5301346318479985481
+    second: BG_desert_night_1024_280
+  - first:
+      213: 5583104792142561517
+    second: BG_desert_night_1024_281
+  - first:
+      213: 3173299727663876829
+    second: BG_desert_night_1024_282
+  - first:
+      213: 1710580546048512765
+    second: BG_desert_night_1024_283
+  - first:
+      213: -6981155039126858291
+    second: BG_desert_night_1024_284
+  - first:
+      213: -4015048908863290519
+    second: BG_desert_night_1024_285
+  - first:
+      213: -1363289561883826278
+    second: BG_desert_night_1024_286
+  - first:
+      213: -7595422537068907146
+    second: BG_desert_night_1024_287
+  - first:
+      213: -7546975254951113813
+    second: BG_desert_night_1024_288
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BG_desert_night_1024_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 964
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5121ac4e50e6fd500800000000000000
+      internalID: 423177861588455957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 964
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadd70418238d8a90800000000000000
+      internalID: -7310042411994456657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 964
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0406f61251b75c140800000000000000
+      internalID: 4739329513562792000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 964
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531bd82485b79c840800000000000000
+      internalID: 5244858860053573941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 964
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331ffea1682846e80800000000000000
+      internalID: -8186274710163558093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 964
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927cd3736a5dab340800000000000000
+      internalID: 4880448056077436713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 964
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba81331a858aa8840800000000000000
+      internalID: 5227175416131950763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_7
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 964
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdbee10bfb2b8320800000000000000
+      internalID: 2561189170159468019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_8
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 964
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d7c287c31b11140800000000000000
+      internalID: 4688723560341732629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_9
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 964
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e039a1b7f5cabb520800000000000000
+      internalID: 2718956326135436046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_10
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 964
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe26e4da4828aca10800000000000000
+      internalID: 1930498896636568303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_11
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 964
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed938f4e1f8dfabc0800000000000000
+      internalID: -3769555829645624866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_12
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 964
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e07d402229da4300800000000000000
+      internalID: 237240670984433893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_13
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 964
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ac95c42e1fbf5e0800000000000000
+      internalID: -1874638865623823838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_14
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 964
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b60e06c941cb20a0800000000000000
+      internalID: -6905213081042942284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_15
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 964
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35344dc1b66dc23d0800000000000000
+      internalID: -3229971077197970605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_16
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 964
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffa99ca43c18b3e0800000000000000
+      internalID: -2037847818825519108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 904
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ef913472bf4a730800000000000000
+      internalID: 4009605714314657411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 904
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0362d3293950ebf90800000000000000
+      internalID: -6936100244732172752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_19
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 904
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25747dfb8b8ea1f0800000000000000
+      internalID: -1031733831252282070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_20
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 904
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02721d261a9b4180800000000000000
+      internalID: -9130034399527407089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 904
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17384ee89aa683740800000000000000
+      internalID: 5131969051868038001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_22
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 904
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fe241e66df45bb0800000000000000
+      internalID: -4948051472265580769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_23
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 904
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6385a24ee18142c0800000000000000
+      internalID: -4449132096544996500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_24
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 904
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34cf52729cde9ee0800000000000000
+      internalID: -1252321124820204483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_25
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 904
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470d978d258e3c680800000000000000
+      internalID: -8735883409651806092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_26
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 904
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e522013f27ba45c60800000000000000
+      internalID: 7806052564332454494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_27
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 904
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fcc8e70ad298290800000000000000
+      internalID: -7887723105021538544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_28
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 904
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d20689667105aac0800000000000000
+      internalID: -3844665098802691376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 904
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9beaf33d4fd7240800000000000000
+      internalID: 4791254766735767993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_30
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 904
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0148dd441abe75810800000000000000
+      internalID: 1754129657761727504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_31
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 904
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f768b2401c092b940800000000000000
+      internalID: 5310466069296285311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_32
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 904
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b353dfb061f23e0800000000000000
+      internalID: -2076416662445933799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_33
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 904
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76dc5da7503703e70800000000000000
+      internalID: 9092894115033894247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 844
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d628799b27c6e3590800000000000000
+      internalID: -7692591873506442643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_35
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 844
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5a197bf28c289d0800000000000000
+      internalID: -2773434313238010407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_36
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 844
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa073cc9966c1c8d0800000000000000
+      internalID: -2827760934108041041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_37
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 844
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e78f95ab8b3e3800800000000000000
+      internalID: 593977671824672740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_38
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 844
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d452c8d25cf2150800000000000000
+      internalID: 5850111240393018635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_39
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 844
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe968fa6b3b2bd530800000000000000
+      internalID: 3880743038107544047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_40
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 844
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e04d213160f5e90800000000000000
+      internalID: -7034897413939392903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_41
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 844
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97733ffd51db01880800000000000000
+      internalID: -8642199783274760327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_42
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 844
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4c66d1ee8cf4610800000000000000
+      internalID: 1607724517015602341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_43
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 844
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d1381cd0978f430800000000000000
+      internalID: 3816933784184626521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_44
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 844
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e495c7f0f95ae280800000000000000
+      internalID: -9013292812744682263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_45
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 844
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad95477860b84140800000000000000
+      internalID: 4704203773512621480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_46
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 844
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7607413518fc4e0800000000000000
+      internalID: -1959205119057696855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_47
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 844
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb9ff1ee05460fd0800000000000000
+      internalID: -2376135823167874101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_48
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 844
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f460edab696b190800000000000000
+      internalID: -7946998763115622556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_49
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 844
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce491167a7e1178b0800000000000000
+      internalID: -5156306587046800148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_50
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 844
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb627483c3031740800000000000000
+      internalID: 5121441339525983177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 784
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715fa34e26f1d3d80800000000000000
+      internalID: -8269418831186037481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_52
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 784
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49c6b18412dbe3a0800000000000000
+      internalID: -6634978640482875059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_53
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 784
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3d157f2c8747a50800000000000000
+      internalID: 6517967339480273911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_54
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 784
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809f62de633f381d0800000000000000
+      internalID: -3349566280600979192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_55
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 784
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee29e0ac3119bd00800000000000000
+      internalID: 988840545279880940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_56
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 784
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32badc045c0ea65e0800000000000000
+      internalID: -1915471553692325085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_57
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 784
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a6a434860bd4700800000000000000
+      internalID: 526270693324253759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_58
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 784
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66c6ed2ea08eaf00800000000000000
+      internalID: 1129982042099336815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_59
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 784
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937d58ae743cdef30800000000000000
+      internalID: 4606552707514619705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_60
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 784
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb336742ceb0d7b0800000000000000
+      internalID: -5201447827982304259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_61
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 784
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6616c7ea1b8ce3e80800000000000000
+      internalID: -8196893606305570458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_62
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 784
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983fd6859c5e85360800000000000000
+      internalID: 7158724260640191369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_63
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 784
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467e6b0bc5148d950800000000000000
+      internalID: 6473996330702661476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_64
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 784
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e28eece3a8c1460800000000000000
+      internalID: 7213792705504620047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_65
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 784
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55705235f63362900800000000000000
+      internalID: 659270948685678421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_66
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 784
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e953753d7d49160800000000000000
+      internalID: 7031482220933389912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_67
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 784
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fd40ddc00019a20800000000000000
+      internalID: 3067232876463710110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 724
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3736009dc1dcae090800000000000000
+      internalID: -8004359863914175629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_69
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 724
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b269fe772bd5be890800000000000000
+      internalID: -7427740139319749077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_70
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 724
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac32e6080bcf6b00800000000000000
+      internalID: 824100492167756961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_71
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 724
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860b779bb326a87b0800000000000000
+      internalID: -5221252809328447384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_72
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 724
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ede03ad1c822ed0800000000000000
+      internalID: -2440233989163786697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_73
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 724
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee33789a21f52e730800000000000000
+      internalID: 4026885550580904942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_74
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 724
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2c84a9d3a82dbb0800000000000000
+      internalID: -4912712246321691964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_75
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 724
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fd30345c2318de0800000000000000
+      internalID: -1332728191910682826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_76
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 724
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14734a0b683b17820800000000000000
+      internalID: 2914307824955963201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_77
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 724
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa267fad08a164500800000000000000
+      internalID: 380020359291167402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_78
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 724
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643e7a14c8a018330800000000000000
+      internalID: 3711259165443220294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_79
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 724
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fc346091e336cb0800000000000000
+      internalID: -4871982094684532911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_80
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 724
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d6a2e8009387ca0800000000000000
+      internalID: -6018998227432739453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_81
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 724
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eccdb96ebd2bc2d0800000000000000
+      internalID: -3257459609631339296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_82
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 724
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857c2c2a456e1c1b0800000000000000
+      internalID: -5637972007308834984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_83
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 724
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc4240ccb35ec040800000000000000
+      internalID: 4669761933774310587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_84
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 724
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9fb43698f3d3b00800000000000000
+      internalID: 809873367305550310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 664
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e18e6d1edf65030800000000000000
+      internalID: 3483250508232662602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_86
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 664
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175b419ed30456a10800000000000000
+      internalID: 1901997052281533809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_87
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 664
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2398ceaf87a861a80800000000000000
+      internalID: -8496451394777347790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_88
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 664
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549379973a5fc23c0800000000000000
+      internalID: -4382858254869907131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_89
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 664
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb68ff0b30f55cdd0800000000000000
+      internalID: -2466460751456401732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_90
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 664
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a06d59bae5183f0800000000000000
+      internalID: -900334359451137473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_91
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 664
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315d838e005553830800000000000000
+      internalID: 4050236902274028819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_92
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 664
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcd6817ba7052690800000000000000
+      internalID: -7627681960956601132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_93
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 664
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6b6a317df7b14f0800000000000000
+      internalID: -856950742359558494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_94
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 664
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa8aac44fc034640800000000000000
+      internalID: 5062904649492368042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_95
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 664
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f856a997f782c69a0800000000000000
+      internalID: -6238566855848860273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_96
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 664
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6bc51875a6c3bb0800000000000000
+      internalID: -4954968565949352230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_97
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 664
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a640268f8ae9db0800000000000000
+      internalID: -4783199969471075708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_98
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 664
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c111323b314ba400800000000000000
+      internalID: 336434319670186436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_99
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 664
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb9fb8a8f2b6d320800000000000000
+      internalID: 2582448217396321204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_100
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 664
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094c1444ad0c970c0800000000000000
+      internalID: -4577415502564834160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_101
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 664
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb91d99d218fc990800000000000000
+      internalID: -7363524832873309189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 604
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fac4cacc956c9160800000000000000
+      internalID: 7033608442137070323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_103
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 604
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac026efa33c6eb90800000000000000
+      internalID: -7212863095043912541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_104
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 604
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8275edb09e21dd7b0800000000000000
+      internalID: -5197977602779883736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_105
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 604
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bd22832c2945680800000000000000
+      internalID: -8767221211720393845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_106
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 604
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb451c993d467a940800000000000000
+      internalID: 5307321545859880124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_107
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 604
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bc4a2fffcf5a2a0800000000000000
+      internalID: -6726692292190221459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_108
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 604
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455d9b0ad42792730800000000000000
+      internalID: 3974833823865754964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_109
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 604
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4209cd8d0614c70800000000000000
+      internalID: 8953544018718893250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_110
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 604
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf30d788d8d39ac70800000000000000
+      internalID: 8982778609856742395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_111
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 604
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc859383f9ef42780800000000000000
+      internalID: -8708555819631159093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_112
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 604
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819541254135d1850800000000000000
+      internalID: 6349322396403783960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_113
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 604
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2af030eac915600800000000000000
+      internalID: 455317308530729690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_114
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 604
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b2e307f70635af0800000000000000
+      internalID: -408877040700347583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_115
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 604
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a981e63b7a1170c0800000000000000
+      internalID: -4579850229555033689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_116
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 604
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8897140345dd41020800000000000000
+      internalID: 2311715862404495752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_117
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 604
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf96ba72c01543b20800000000000000
+      internalID: 3113202355066857979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_118
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 604
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6261433f87760900800000000000000
+      internalID: 650338653125567084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90b9d9efab4c98a0800000000000000
+      internalID: -6297074960056078177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_120
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 544
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2787c9789c7dc6690800000000000000
+      internalID: -7607468409972033422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_121
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 544
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6317ee1f191349110800000000000000
+      internalID: 1266691898096906550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_122
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 544
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1b87b6a91a9aa80800000000000000
+      internalID: -8455049140811288085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_123
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 544
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4e614e2a51ec510800000000000000
+      internalID: 1571217109354472681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_124
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 544
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d989a991ddc108530800000000000000
+      internalID: 3855113016972056733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_125
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 544
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503aac0a5f212cec0800000000000000
+      internalID: -3548252710240607483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_126
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 544
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b92bca777675c320800000000000000
+      internalID: 2577596617272797622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_127
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 544
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d699416f69d05a80800000000000000
+      internalID: -8480039025941834026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_128
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 544
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4036a5f82c828830800000000000000
+      internalID: 4071971120644239437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_129
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 544
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad369164379b99380800000000000000
+      internalID: -8963929678555814950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_130
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 544
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fc975eb7400f560800000000000000
+      internalID: 7345375922418732817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_131
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 544
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0309449b4af58ff30800000000000000
+      internalID: 4609539379701256240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_132
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 544
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0187288495ccaa350800000000000000
+      internalID: 6028855735029495824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_133
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 544
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e582bb0e43d174e80800000000000000
+      internalID: -8194548884031461282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_134
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 544
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fb7e6ba5ef6ffe0800000000000000
+      internalID: -1155456588804800634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_135
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 544
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d469079f82dac70800000000000000
+      internalID: 8983881883474873658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37480c4718b6909f0800000000000000
+      internalID: -501751679721372557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_137
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 484
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ad82362dd855ce0800000000000000
+      internalID: -1417070572991882646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_138
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 484
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0cced7873edb300800000000000000
+      internalID: 269621659360346362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_139
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 484
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a509224495f32a780800000000000000
+      internalID: -8673300279734398886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_140
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 484
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7ee9450f49e6190800000000000000
+      internalID: -7967266930839066683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_141
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 484
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baeb536a4225e4540800000000000000
+      internalID: 4994019354161299115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_142
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 484
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5ebc23bb03e0a80800000000000000
+      internalID: -8498801866232306212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_143
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 484
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd640a1209abb4410800000000000000
+      internalID: 1462467632214066908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_144
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 484
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac1fae1f926a55f0800000000000000
+      internalID: -767192350959133531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_145
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 484
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01eb91e2453883a20800000000000000
+      internalID: 3042325945862700560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_146
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 484
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2874278b795cc7e80800000000000000
+      internalID: -8179445567786432638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_147
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 484
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9a7f671f8dcb250800000000000000
+      internalID: 5961878538326354394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_148
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 484
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84efdc90482225990800000000000000
+      internalID: -7398813287320781240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_149
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 484
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdef254f74fc8e970800000000000000
+      internalID: 8784498981134859995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_150
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 484
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6bf786dc2742e70800000000000000
+      internalID: 9089516174487565999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_151
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 484
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b74c5438db529470800000000000000
+      internalID: 8399877239148922804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_152
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 484
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75ebd555c65dfdd0800000000000000
+      internalID: -2450707216670661249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_153
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7bcbf308c4a3b90800000000000000
+      internalID: -7261407335472646220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_154
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 424
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d94647f1c04f7a80800000000000000
+      internalID: -8466977572611798576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_155
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 424
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d069c94d645746350800000000000000
+      internalID: 6009056749894276621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_156
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 424
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd5edb58564b0750800000000000000
+      internalID: 6272184251355913653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_157
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 424
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca23dbc0804ad6d0800000000000000
+      internalID: -2964986482750444857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_158
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 424
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0144047da08e060800000000000000
+      internalID: 6982843141850402998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_159
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 424
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60ef882c1ec80430800000000000000
+      internalID: 3749473310120861807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_160
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 424
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b65ac58b1a0f640800000000000000
+      internalID: 5111763390265912107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_161
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 424
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfc2459f47e9f390800000000000000
+      internalID: -7783936151940575295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_162
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 424
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9472ba83734fd40800000000000000
+      internalID: 5617175351767026166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_163
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 424
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d340439996fd25030800000000000000
+      internalID: 3482091106545697853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_164
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 424
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5321c2a83eeb2b5b0800000000000000
+      internalID: -5354007122505100747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_165
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 424
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13830f401606f270800000000000000
+      internalID: 8283815231709479707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_166
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 424
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72428db31f94c0a00800000000000000
+      internalID: 724034940539773991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_167
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 424
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43af90af1a5eedb80800000000000000
+      internalID: -8367998573760349644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_168
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 424
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de576a3859950620800000000000000
+      internalID: 2739764552540839633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_169
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 424
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b2c2b0151f720d0800000000000000
+      internalID: -3447521659346736229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5d7ac2eb36c20c0800000000000000
+      internalID: -4599191451007986222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_171
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 364
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44965282b4a3eb290800000000000000
+      internalID: -7872791004126549692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_172
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 364
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0af35801c443a9d0800000000000000
+      internalID: -2764290150416254452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_173
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 364
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4b243638b17ded0800000000000000
+      internalID: -2389410826176776983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_174
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 364
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd3f57f5bad9a350800000000000000
+      internalID: 6028590051286269370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_175
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 364
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c175aa838f7d34c10800000000000000
+      internalID: 2036708917604144924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_176
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 364
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5912dd1e86f6500800000000000000
+      internalID: 391647011891418552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_177
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 364
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b163b46f6546efa0800000000000000
+      internalID: -5771849527695547979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_178
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 364
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c78bdc2f3911120800000000000000
+      internalID: 2382848348898491482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_179
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 364
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90cb196a21682440800000000000000
+      internalID: 4911282228427473055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_180
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 364
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fab20e521ff50e0800000000000000
+      internalID: -2278837741449138346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_181
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 364
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c736583ac936fc0800000000000000
+      internalID: -3502783859032622052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_182
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 364
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a45864283fad1f00800000000000000
+      internalID: 1089219340557374632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_183
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 364
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e9a84af0bc11960800000000000000
+      internalID: 7571055716632010269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_184
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 364
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c6ec20167e65b20800000000000000
+      internalID: 3122937795472944208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_185
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 364
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4763074274351d140800000000000000
+      internalID: 4742663447616960116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_186
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 364
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f6a4b65a2c06250800000000000000
+      internalID: 5935958324599746454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_187
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153c4e7d58e4e70d0800000000000000
+      internalID: -3423212329995287727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_188
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 304
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69326d8eb7fa89270800000000000000
+      internalID: 8257542863505990550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_189
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 304
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db29a8f597650760800000000000000
+      internalID: 7423453454609755096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_190
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 304
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7daccbc8468ccedc0800000000000000
+      internalID: -3608288867247142185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_191
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 304
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8a77fd8434ac670800000000000000
+      internalID: 8559728022036916389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_192
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 304
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6f695bfefa11460800000000000000
+      internalID: 7210737922475488981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_193
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 304
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1efd4156a46dcf70800000000000000
+      internalID: 9209127478533946909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_194
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 304
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580fba7ec6fe05170800000000000000
+      internalID: 8165289375445020805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_195
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 304
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93cde22195f8a130800000000000000
+      internalID: 3578379907650929565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_196
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 304
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48218e2cfcf500510800000000000000
+      internalID: 1513314820729344644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_197
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 304
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3d3baa272b57220800000000000000
+      internalID: 2483086975124624351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_198
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 304
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ee358c9d85817e0800000000000000
+      internalID: -1794586759115051460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_199
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 304
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e395278c6e980ad20800000000000000
+      internalID: 3287779352278882622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_200
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 304
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7992cfe4f7bde00800000000000000
+      internalID: 1070589313645385709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_201
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 304
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045aacc484af77b00800000000000000
+      internalID: 826404245078713664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_202
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 304
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648141d7c3d4cf440800000000000000
+      internalID: 4970933010902030406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_203
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 304
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ba5cf6c8b26f9d0800000000000000
+      internalID: -2740955441037726824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_204
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184f0bcaf2026f130800000000000000
+      internalID: 3600100341262120065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_205
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 244
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e3376494b4fb0e0800000000000000
+      internalID: -2251998510575305174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_206
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 244
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09020b9eb7435fdf0800000000000000
+      internalID: -147153706013417328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_207
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 244
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a91c8019d5a39c0800000000000000
+      internalID: -3946739245938271742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_208
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 244
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758e027371ec21030800000000000000
+      internalID: 3464057662505805911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_209
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 244
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac9da7cc9d7d9920800000000000000
+      internalID: 2998691039217032356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_210
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 244
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4197b6b0494b2a0800000000000000
+      internalID: -6722585566988659493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_211
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 244
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5cae1d4667e3e20800000000000000
+      internalID: 3332230949691377137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_212
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 244
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc9e6d0c18126bc0800000000000000
+      internalID: -3791441427529032451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_213
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 244
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b1d5ced0397b860800000000000000
+      internalID: 7545661388691938152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_214
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 244
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496d28dd93c8cbd00800000000000000
+      internalID: 989820198272030356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_215
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 244
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a630d032b901ba0800000000000000
+      internalID: -6120221318752015844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_216
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 244
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c541f6b0de7310a0800000000000000
+      internalID: -6912041568196016696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_217
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 244
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43886e42ba90fa40800000000000000
+      internalID: 5399986043827553098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_218
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 244
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e538e35e964f7f0800000000000000
+      internalID: -579722018706727391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_219
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 244
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e02b010f2d2182a0800000000000000
+      internalID: -6737053887665331997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_220
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 244
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb557dbb20f78b90800000000000000
+      internalID: -7239553805321937986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_221
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4e12318cd264020800000000000000
+      internalID: 2325596594921137363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_222
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 184
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf80c71175639a670800000000000000
+      internalID: 8550425115122993404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_223
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 184
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bd5e6e57c262b10800000000000000
+      internalID: 1956299973035678524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_224
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 184
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b454a2bad765c3230800000000000000
+      internalID: 3619863298241611083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_225
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 184
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c44efd00f35f330800000000000000
+      internalID: 3743967938217266295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_226
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 184
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef740253df9a2c5a0800000000000000
+      internalID: -6502448006986446850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_227
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 184
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7747da0cbb4085a00800000000000000
+      internalID: 745350942767805559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_228
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 184
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90798f4a904464440800000000000000
+      internalID: 4919694451161995017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_229
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 184
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c32f9a9013d0920800000000000000
+      internalID: 2958074447827975238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_230
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 184
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef3911cf7d6b4e30800000000000000
+      internalID: 4488801849072762860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_231
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 184
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0761135e1b77bf0800000000000000
+      internalID: -326596850031890262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_232
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 184
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3071c5cfa04c09db0800000000000000
+      internalID: -4787110852432226557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_233
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 184
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446a32855f82fbf40800000000000000
+      internalID: 5746356683758872132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_234
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 184
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea12e2e4ff9a64a80800000000000000
+      internalID: -8482905934112349778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_235
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 184
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d475c7f0229812d30800000000000000
+      internalID: 4404952689926756173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_236
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 184
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06f9dcaf4fba51e0800000000000000
+      internalID: -2208242318348519923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_237
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 184
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c921b64ff804580800000000000000
+      internalID: -8844911388224480116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_238
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f1de8a07c9f18d0800000000000000
+      internalID: -2873406029554704538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_239
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 124
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390c8df590323da40800000000000000
+      internalID: 5391691702062334099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_240
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 124
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ffbba521e229930800000000000000
+      internalID: 4148428863128207262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_241
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 124
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7c48cd142687860800000000000000
+      internalID: 7527874812161869753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_242
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 124
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a2436fb095e8fa0800000000000000
+      internalID: -5796597762469123574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_243
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 124
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bebfa76edf731e30800000000000000
+      internalID: 4473059448108072630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_244
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 124
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f759e2f134b0988f0800000000000000
+      internalID: -537886297580202625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_245
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 124
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71e5c2a52a00a810800000000000000
+      internalID: 1774429409944920443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_246
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 124
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfcb1de6e3570db0800000000000000
+      internalID: -4825796224418590780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_247
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 124
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fd72ee38f3e9490800000000000000
+      internalID: -7737677273907077370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_248
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 124
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3968897b90a0220800000000000000
+      internalID: 2452783631199277997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_249
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 124
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448a9124e92fd40a0800000000000000
+      internalID: -6895588692906629052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_250
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 124
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958a6113ab5dad9e0800000000000000
+      internalID: -1595728122285217703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_251
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 124
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31808074895240a0800000000000000
+      internalID: -6898853253820153540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_252
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 124
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0471b1a6b60649a0800000000000000
+      internalID: -6249300051463408627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_253
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 124
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac389e285fb953f0800000000000000
+      internalID: -911487064106058579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_254
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 124
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff4ee9bb98597710800000000000000
+      internalID: 1691480560916910075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_255
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b678b49ed1b918370800000000000000
+      internalID: 8323104139127785323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_256
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 64
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd155515fe15cc50800000000000000
+      internalID: 6684783259875089911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_257
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 64
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38aab99d65f7be340800000000000000
+      internalID: 4894145431062948483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_258
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 64
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056b097eaa9e330f0800000000000000
+      internalID: -1138309360555870640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_259
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be83981406ffb4c90800000000000000
+      internalID: -7184367991658039061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_260
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 64
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35e77c82a6b97b50800000000000000
+      internalID: 6591500338891056444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_261
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 64
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986cd7fd86b4ad9b0800000000000000
+      internalID: -5054644717971716471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_262
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 64
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c2ff7088cf2e780800000000000000
+      internalID: -8655077872672756723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_263
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2d920c7507b9730800000000000000
+      internalID: 4006919815664620279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_264
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 64
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15446819db98c3a0800000000000000
+      internalID: -6644889893465733861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_265
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 64
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa55e52d6d781060800000000000000
+      internalID: 6924422334822832800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_266
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 64
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e108544894af85ad0800000000000000
+      internalID: -2713143581832019938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_267
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ddbc1ad90893aa0800000000000000
+      internalID: -6180767599076582067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_268
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 64
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a6b05b6295cf440800000000000000
+      internalID: 4970946111491238530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_269
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 64
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d57cc987f54dc4f0800000000000000
+      internalID: -806911828758333993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_270
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 64
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf44ca4d7e0ba6a0800000000000000
+      internalID: -6437035311107911754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_271
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 64
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d56b6e7fbe3ea10800000000000000
+      internalID: 1937651714659605822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_272
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb2aa3106f4cb620800000000000000
+      internalID: 2791193143128239068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_273
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 4
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecb551eaaee90280800000000000000
+      internalID: -9076461156296180508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_274
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 4
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff2a393329f51890800000000000000
+      internalID: -7487804875754295309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_275
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 4
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba38ea6438cf33de0800000000000000
+      internalID: -1354461422151629909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_276
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 4
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963e41b05ec5ab5d0800000000000000
+      internalID: -3046020059159534743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_277
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 4
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2270b3bd54468af0800000000000000
+      internalID: -394552748111007187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_278
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 4
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a5d40f0d12f4c80800000000000000
+      internalID: -8336407203970983402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_279
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 4
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10680bf36d942ddb0800000000000000
+      internalID: -4768667870891571711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_280
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 4
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4fcaf6c95dd66b0800000000000000
+      internalID: -5301346318479985481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_281
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 4
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de040775a3c2b7d40800000000000000
+      internalID: 5583104792142561517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_282
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 4
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddacf391a43d90c20800000000000000
+      internalID: 3173299727663876829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_283
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 4
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df25aee81f33db710800000000000000
+      internalID: 1710580546048512765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_284
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 4
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc55aeaca74fd1f90800000000000000
+      internalID: -6981155039126858291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_285
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 4
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963426f3a4ea748c0800000000000000
+      internalID: -4015048908863290519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_286
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 4
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97aae1dd5f941de0800000000000000
+      internalID: -1363289561883826278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_287
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 4
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675f20fd173a79690800000000000000
+      internalID: -7595422537068907146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_desert_night_1024_288
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babc9ffbdf1c34790800000000000000
+      internalID: -7546975254951113813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c2b18bdede8cc96469214dd15db5630e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
